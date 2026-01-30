@@ -27,3 +27,15 @@ width: 100%; /* Растягивает аудиоплеер на всю шири
 iframe {
 }
 border: 1px solid #2a6df4; /* Рамка вокруг iframe */ background: white; /* Фон на случай пустого iframe */
+
+svg {
+}
+display: block; /* Превращает SVG в блочный элемент */ margin: 20px auto; /* Центрирует с отступами сверху/снизу */ border: 1px solid #d0d7e2; /* Добавляет тонкую рамку вокруг SVG */
+/* Пример дополнительных стилей для SVG */
+svg:hover {
+}
+box-shadow: 0·4px 12px rgba(0, 0, 0, 0.1); /* Тень·при наведении */ transition: box-shadow 0.3s ease; /* Плавный·пeрexoд */
+svg text {
+}
+font-family: Georgia, serif; /* · шри&т·для·текста в SVG */ font-size: 24px; /* Размер текста */
+font-weight: bold; /* Жирное начертание */
