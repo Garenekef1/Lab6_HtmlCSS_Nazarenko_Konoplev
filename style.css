@@ -1,0 +1,19 @@
+
+header,
+footer {
+background: #2a6df4;
+color: white;
+padding: 15px;
+}
+nav {
+background: ■#eef2ff;
+padding: 10px; display: flex;
+gap: 10px;
+}
+nav a {
+}
+text-decoration: none;
+color: #2a6df4; font-weight: bold;
+nav a:hover {
+text-decoration: underline;
+}
