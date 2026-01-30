@@ -17,3 +17,13 @@ color: #2a6df4; font-weight: bold;
 nav a:hover {
 text-decoration: underline;
 }
+
+video {
+}
+display: block; /* убирает лишнее пространство под видео */ background: #000; /* Черный фон для области видео */ min-height: 200px; /* Минимальная высота для видео-блока */
+audio {
+}
+width: 100%; /* Растягивает аудиоплеер на всю ширину */ margin: 15px 0; /* Отступы сверху и снизу */
+iframe {
+}
+border: 1px solid #2a6df4; /* Рамка вокруг iframe */ background: white; /* Фон на случай пустого iframe */
